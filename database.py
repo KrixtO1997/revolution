@@ -1,1 +1,1 @@
-Edump2101={'dir': '', 'cloudtype': 'moodle', 'moodle_host': 'https://evea.uh.cu/', 'moodle_repo_id': 4, 'moodle_user': 'hannet.vichi@estudiantes.isdi.uh.cu', 'moodle_password': '1959.Kiwi', 'isadmin': 1, '250': 100, 'uploadtype': 'draft', 'proxy': '', 'tokenize': 0}
+Edump2101={'dir': '', 'cloudtype': 'moodle', 'moodle_host': 'https://evea.uh.cu/', 'moodle_repo_id': 4, 'moodle_user': '', 'moodle_password': '', 'isadmin': 1, '250': 100, 'uploadtype': 'draft', 'proxy': '', 'tokenize': 0}
